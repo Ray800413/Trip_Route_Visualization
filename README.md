@@ -12,4 +12,4 @@ The objective of this project is to predict the individual possible trip route b
 ## How to run it remotely
 Click the badge below. This badge will bring you to the virtual enviroment boosted through the BinderHub and you can run the code in the **index.ipynb**. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ray800413/Transportation_Need_Assessment/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ray800413/Trip_Route_Visualization/master)
